@@ -4,14 +4,14 @@ This document outlines the steps required to install, configure and run a Spring
 
 ## Documentation
 
-* [Dependencies Required](#DependenciesRequired)
-* [Database Creation](#DatabaseCreation)
-* [The application.properties File](#Theapplication.propertiesFile)
-* [Spring Boot Run Command](#SpringBootRunCommand)
-* [Spring Boot Run Test Command](#SpringBootRunTestCommand)
+* [Dependencies Required](#Dependencies-Required)
+* [Database Creation](#Database-Creation)
+* [The application.properties File](#The-application.properties-File)
+* [Spring Boot Run Command](#Spring-Boot-Run-Command)
+* [Spring Boot Run Test Command](#Spring-Boot-Run-Test-Command)
 * [Routes](#Routes)
-  - [Dealers](#DealersRoutes)
-  - [Listings](#ListingsRoutes)
+  - [Dealers](#Dealers-Routes)
+  - [Listings](#Listings-Routes)
 * [Suggestions](#Suggestions)
 
 
@@ -19,7 +19,7 @@ This document outlines the steps required to install, configure and run a Spring
 
 Before getting started, you must install the following dependencies:
 
-* [Java JDK](https://www.java.com/en/download/)
+* [Java (JDK)](https://www.java.com/en/download/)
 * [MySQL Server](https://mysql.com/downloads/mysql/)
 
 ## Database Creation
